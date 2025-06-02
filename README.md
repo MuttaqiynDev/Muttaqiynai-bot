@@ -107,6 +107,3 @@ Thanks to the developers of:
 
 * [Aiogram](https://docs.aiogram.dev/en/latest/)
 * [Google Gemini AI](https://ai.google.dev/)
-
-```
-
