@@ -40,7 +40,7 @@ _Empowering users with advanced AI conversational capabilities._
    ```bash
    git clone https://github.com/MuttaqiyinDev/muttaqiynai-bot.git
    cd muttaqiynai-bot
-````
+   ````
 
 2. **Install Dependencies**
 
