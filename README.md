@@ -1,4 +1,3 @@
-````markdown
 # MuttaqiynAI Bot 🤖
 
 _Empowering users with advanced AI conversational capabilities._
